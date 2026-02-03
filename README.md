@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **anjuadabala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XDtFKEml5K0YIcBIPGbQukuOa8JBoIS4/view?usp=drivesdk](https://drive.google.com/file/d/1XDtFKEml5K0YIcBIPGbQukuOa8JBoIS4/view?usp=drivesdk)
-
 - ⚡ Fun fact **I once fixed a bug at 3 AM that I couldn't solve for 3 days straight.**
 
 <h3 align="left">Connect with me:</h3>
